@@ -5,5 +5,11 @@ repository to the local repository.
 git pull
 $ git add .
 
-$ git git_commands2.txt
+$ git add git_commands2.txt
+
+$ git commit -m "third commit"
+
+$ git push origin master
+
+
 
