@@ -1,8 +1,0 @@
-git branch
-Create a new branch
-
-$ git branch Abdul_branch
-$ git checkout Abdul_branch
-git merge new_branch
-
-git clone https://github.com/Zuneirah/gitCommandPractise.git
