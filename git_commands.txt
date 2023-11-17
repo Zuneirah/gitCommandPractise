@@ -3,6 +3,18 @@ $ git config --global user.email "samshaikh451@gmail.com"
 $ git bash directly from the folder
 $ ls  // list all files and folder
 
+$ git init
+$ git add .
+$ git status
+$ git commit -m "First commit"
+
+ git remote add origin https://github.com/Zuneirah/gitCommandPractise.git
+ 
+ git push origin master
+
+
+
+
 
 
 
