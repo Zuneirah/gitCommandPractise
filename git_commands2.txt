@@ -1,0 +1,9 @@
+
+Download all the other changes from the remote 
+repository to the local repository.
+
+git pull
+$ git add .
+
+$ git git_commands2.txt
+
