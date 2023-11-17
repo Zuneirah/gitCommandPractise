@@ -1,0 +1,9 @@
+$ git config --global user.name "ABDUL_SHAIKH"
+$ git config --global user.email "samshaikh451@gmail.com"
+$ git bash directly from the folder
+$ ls  // list all files and folder
+
+
+
+
+
